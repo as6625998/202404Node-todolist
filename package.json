@@ -3,6 +3,16 @@
     "uuid": "^9.0.1"
   },
   "engines": {
-    "node": "21.x"
-  }
+    "node": "21.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "todo",
+  "version": "1.0.0",
+  "main": "errorHandle.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
